@@ -1,4 +1,4 @@
-<img src='uminho_eng.png' width="30%"/>
+<img align="center" src='uminho_eng.png' width="30%"/>
 
 <h3 align="center">Licenciatura em Engenharia Informática <br> Trabalho prático de Base de Dados <br> 2023/2024 </h3>
 
